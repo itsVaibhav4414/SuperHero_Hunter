@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "SuperHeroHunter",
+			"path": "../../clone projects/SuperHeroHunter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front end projects"
+	}
+}
